@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and dsa **
 - ** I like Problem Solvig **
-- 💬 Ask me about **java, Python, HTML/CSS**
+- 💬 Ask me about **Java, Python, HTML/CSS**
 
 - 📫 How to reach me **usmanqureahi22@gmail.com**
 
