@@ -7,10 +7,10 @@
 
 - 📫 How to reach me **usmanqureahi22@gmail.com**
 
-<img align="right" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc4MWYwMmIyYTgwZDlhYjcxY2YxNGY2NDUzNDgwMDEyOGUyYTQ1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<br><br><br>
+<br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raquib01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquib01" height="30" width="40" /></a>
