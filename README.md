@@ -2,7 +2,7 @@
 <h3 align="center"...............Learning........!!</h3>
 
 - 🌱 I’m currently learning **Java and dsa **
-- ** I like Problem Solvig **
+-  ☕️ I like Problem Solvig 
 - 💬 Ask me about **Java, Python, HTML/CSS**
 
 - 📫 How to reach me **usmanqureahi22@gmail.com**
@@ -13,8 +13,8 @@
 <br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raquib01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquib01" height="30" width="40" /></a>
-<a href="https://instagram.com/raquib01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raquib01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/qureshi-mohammad-usman-003177199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquib01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/furqanqureahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raquib01" height="30" width="40" /></a>
 
 </p>
 
